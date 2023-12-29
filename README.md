@@ -25,17 +25,12 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/sameerz99/BookCRUDapi.git
 ```
-### Running the application
-1. Navigate to the project directory:
-```bash
-cd BookCRUDapi
-```
-2. Build the application:
-```bash
-mvn clean install
-```
-3. Run the application:
-```bash
-java -jar target/your-application-name.jar
-```
-Replace your-application-name with the actual name of the generated JAR file.
+# React App(BookCRUDapp)
+A React application that consumes the Book CRUD API.
+
+## Features
+- View a list of books
+- Explore detailed information about each book
+- Add new books 
+- Update existing books 
+- Delete books
